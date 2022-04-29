@@ -1,0 +1,37 @@
+{
+  "name": "ionic2-calendar",
+  "version": "0.6.9",
+  "description": "Ionic2 calendar component",
+  "keywords": [
+    "Ionic2",
+    "calendar"
+  ],
+  "author": {
+    "name": "twinssbc"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twinssbc/Ionic2-Calendar.git"
+  },
+  "main": "bundles/ionic2-calendar.umd.js",
+  "dependencies": {},
+  "peerDependencies": {
+    "@angular/core": ">=9.1.0",
+    "@angular/forms": ">=9.1.0",
+    "@angular/router": ">=9.1.0",
+    "rxjs": ">=6.5.4",
+    "zone.js": ">=0.10.2",
+    "@ionic/angular": ">=5.1.0",
+    "tslib": "^2.0.0"
+  },
+  "module": "fesm5/ionic2-calendar.js",
+  "es2015": "fesm2015/ionic2-calendar.js",
+  "esm5": "esm5/ionic2-calendar.js",
+  "esm2015": "esm2015/ionic2-calendar.js",
+  "fesm5": "fesm5/ionic2-calendar.js",
+  "fesm2015": "fesm2015/ionic2-calendar.js",
+  "typings": "ionic2-calendar.d.ts",
+  "metadata": "ionic2-calendar.metadata.json",
+  "sideEffects": false
+}
